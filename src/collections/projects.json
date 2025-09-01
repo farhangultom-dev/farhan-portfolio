@@ -4,5 +4,11 @@
 		"description": "App loyalty program for frisian flag indonesia wholesale customer",
 		"image": "/assets/images/projects/login_ffi.jpg",
 		"url": "https://play.google.com/store/apps/details?id=com.pitjarus.adefault&hl=en"
+	},
+  {
+		"name": "Website Desa Bangka Jaya",
+		"description": "apps intended for Bangka Jaya village to help the community with requests for making letters",
+		"image": "/assets/images/projects/bangkajaya.jpg",
+		"url": "https://bangkajaya.diprojectin.com"
 	}
 ]
